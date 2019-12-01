@@ -1,4 +1,5 @@
 # Speaker-Emotion-Classification
+Implementation of Speech Emotion Recognition using CNN
 
 Emotions are probably relevant enough when we deal with conversations between agent and customer.
 
